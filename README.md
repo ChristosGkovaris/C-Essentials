@@ -1,5 +1,4 @@
 # C Essentials
-
 Welcome to the "C Essentials" repository, where you'll find a collection of C programs for various algorithms.
 
 
