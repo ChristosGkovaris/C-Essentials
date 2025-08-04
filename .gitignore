@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+
+# Executable files
+*.exe
+*.out
+*.out.dSYM
+a.out
+
+# Debug & log files
+*.log
+
+# Temporary & backup files
+*~
+*.swp
+*.bak
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# MacOS and Linux temp files
+.DS_Store
+Thumbs.db
