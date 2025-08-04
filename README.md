@@ -109,7 +109,7 @@ cd c-programming-essentials
 ```bash
 sudo apt install build-essential    # Linux
 # or
-brew install gcc                     # macOS
+brew install gcc                    # macOS
 ```
 
 ---
