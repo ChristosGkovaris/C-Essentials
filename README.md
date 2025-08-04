@@ -1,7 +1,6 @@
 # C ESSENTIALS
 
-This project contains **fundamental C programming exercises** that demonstrate  
-**core algorithms, logic building, and console input/output operations**. 
+This project contains **fundamental C programming exercises** that demonstrate **core algorithms, logic building, and console input/output operations**. 
 
 ---
 
